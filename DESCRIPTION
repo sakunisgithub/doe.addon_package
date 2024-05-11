@@ -1,0 +1,10 @@
+Package: doe.addon
+Type: Package
+Title: Add-on functions helpful in DOE Analysis
+Version: 0.1.0
+Author: Ananda Biswas
+Maintainer: Ananda Biswas <amianandabiswas@gmail.com>
+Description: Availabe functions help the user in numerical calculations of Design of Experiments.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
