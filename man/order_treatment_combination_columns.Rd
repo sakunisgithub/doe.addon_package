@@ -8,7 +8,7 @@ order_trt_comb_col
 While applying Yate's Algorithm, the factorial effects must be in proper order. $order_trt_comb_col$ helps to do so.
 }
 \usage{
-order_treatment_combination_columns(dataframe, column_number, proper_order)
+order_trt_comb_col(dataframe, column_number, proper_order)
 }
 %- maybe also 'usage' for other objects documented here.
 \arguments{
