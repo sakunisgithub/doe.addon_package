@@ -13,7 +13,7 @@ adjustement_factor_for_confounded_effects(data, confounded_effect, confounded_in
 %- maybe also 'usage' for other objects documented here.
 \arguments{
   \item{data}{
-a dataframe; the column names must be \textbf{block}, \textbf{replicate}, \textbf{treatment_combination} and \textbf{response}. There may be other columns, but these are must and only with these names.
+a dataframe; the column names must be block, replicate, treatment_combination and response. There may be other columns, but these are must and only with these names.
 }
   \item{confounded_effect}{
 a character, e.g. confounded_effect = "npk"
